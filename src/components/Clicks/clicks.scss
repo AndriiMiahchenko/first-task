@@ -5,3 +5,11 @@
     color: rgb(236, 34, 34);
     font-size: 24px;
 }
+
+.btn {
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    align-items: center;
+    gap: 25px;
+}
